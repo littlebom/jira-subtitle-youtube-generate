@@ -5,3 +5,6 @@ __pycache__/
 *.vtt.bak
 *.srt.bak
 raw_sub*
+*.mp4
+*.m4a
+transcripts/
